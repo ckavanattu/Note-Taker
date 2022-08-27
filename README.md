@@ -9,7 +9,7 @@
 ## To install on your local computer
 - clone the repository, nun on npm i to install dependencies, then npm start to start the server! Go to localhost:3001 to use!
 
-##Link to live deployment"
+## Link to live deployment
 Heroku Link: https://peaceful-shore-64708.herokuapp.com/
 
 ## Screenshot below!
